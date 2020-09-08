@@ -1,8 +1,5 @@
-Esto es un título
+Esta es la historia de arnol
 
-Esto es un título centrado
+arnol tiene 26 años y nacio en colombia
 
-Aquí va un párrafo con negrita, cursiva, subrayado y colores.
-
-
-Y esto de arriba es la foto de unas Suricatas.
+hoy hablaremos de su historia 
